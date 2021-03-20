@@ -1,6 +1,10 @@
 body {
   margin: 0;
   min-width: 250px;
+  padding: 25px;
+  background: url("https://wallpaperaccess.com/full/1489353.jpg");
+  background-repeat: repeat;
+  background-size: 100% 170%;
 }
  {
   box-sizing: border-box;
