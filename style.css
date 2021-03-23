@@ -63,7 +63,7 @@ ul li.checked::before {
 .header {
   background-color: medium;
   padding: 30px 40px;
-  color: crimson;
+  color: #2f4f4f;
   font-size: 20px;
   text-align: center;
 }
