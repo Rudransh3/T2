@@ -18,7 +18,7 @@ ul li {
   position: relative;
   padding: 12px 8px 12px 40px;
   list-style-type: none;
-  background: indianred;
+  background: #d4dcd3;
   font-size: 18px;
   transition: 0.2s;
   -webkit-user-select: none;
@@ -27,7 +27,7 @@ ul li {
   user-select: none;
 }
 ul li:nth-child(odd) {
-  background: lightgreen;
+  background: #95b07c;
 }
 ul li:hover {
   background: #ddd;
@@ -63,7 +63,7 @@ ul li.checked::before {
 .header {
   background-color: medium;
   padding: 30px 40px;
-  color: #2f4f4f;
+  color: #204651;
   font-size: 20px;
   text-align: center;
 }
