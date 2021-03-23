@@ -18,7 +18,7 @@ ul li {
   position: relative;
   padding: 12px 8px 12px 40px;
   list-style-type: none;
-  background: #d4dcd3;
+  background: #95b07c;
   font-size: 18px;
   transition: 0.2s;
   -webkit-user-select: none;
@@ -27,7 +27,7 @@ ul li {
   user-select: none;
 }
 ul li:nth-child(odd) {
-  background: #95b07c;
+  background: #d4dcd3;
 }
 ul li:hover {
   background: #ddd;
